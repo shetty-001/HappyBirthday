@@ -130,14 +130,14 @@ audio { display: none; }
   text-shadow: 5px 5px 5px #FFF;
   display: none;
 }
-#b1,#b11 { background-image: url('image/b1.png'); }
-#b2,#b22 { background-image: url('image/b2.png'); }
-#b3,#b33 { background-image: url('image/b3.png'); }
-#b4,#b44 { background-image: url('image/b4.png'); }
-#b5,#b55 { background-image: url('image/b5.png'); }
-#b6,#b66 { background-image: url('image/b6.png'); }
-#b7,#b77 { background-image: url('image/b7.png'); }
-#b8,#b88 { background-image: url('image/b8.png'); }
+#b1,#b11 { background-image: url('b1.png'); }
+#b2,#b22 { background-image: url('b2.png'); }
+#b3,#b33 { background-image: url('b3.png'); }
+#b4,#b44 { background-image: url('b4.png'); }
+#b5,#b55 { background-image: url('b5.png'); }
+#b6,#b66 { background-image: url('b6.png'); }
+#b7,#b77 { background-image: url('b7.png'); }
+#b8,#b88 { background-image: url('b8.png'); }
 
 /* Gentle sway animation — uses translateX only so it doesn't fight JS position */
 .balloon-sway-one {
